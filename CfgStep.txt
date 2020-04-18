@@ -1,0 +1,12 @@
+1.git config --global user.name "my name"
+2.git config --global user.email "my email"
+
+#create txt file
+echo "intruduction message" > a.txt
+#add to report list
+git add a.txt
+#commit to temp
+git commit -m "description of your operation"
+#push to remote server
+git push origin master
+
