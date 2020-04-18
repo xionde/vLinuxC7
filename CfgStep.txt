@@ -7,6 +7,8 @@ echo "intruduction message" > a.txt
 git add a.txt
 #commit to temp
 git commit -m "description of your operation"
+#get local status
+git status
 #push to remote server
 git push origin master
 
