@@ -1,5 +1,6 @@
 1.git config --global user.name "my name"
 2.git config --global user.email "my email"
+3.git remote add origin git@github.com:myName/myReport.git
 
 #create txt file
 echo "intruduction message" > a.txt
