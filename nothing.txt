@@ -4,4 +4,4 @@ lastlinemod
 ydn
 modbus
 can
-creating a new branch is quick and Simple.
+creating a New branch is Quick and Simple.
