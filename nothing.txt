@@ -2,3 +2,4 @@ insert
 cmd
 lastlinemod
 ydn
+modbus
