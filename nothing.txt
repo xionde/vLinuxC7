@@ -6,3 +6,4 @@ modbus
 can
 creating a New branch is Quick and Simple.
 a bug branch
+finish learnning git
